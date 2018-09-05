@@ -9,14 +9,13 @@ This website has detailed information about different categorized products . Peo
 
 How To Run This Project
 --
-**Step - 1** :- Download or clone this project from this repository .<br>
-[Note:Make sure The root folder name is "Dailyneeds".so if you Download as a zip then just rename the folder as "Dailyneeds" ]<br>
+**Step - 1** :- Download or clone this project from this repository .
 
 **Step - 2** :- Create a database named needy in your phpmyadmin and then in that database import a file named needy.sql which is provided here inside the Database folder at the top.
 
 **Step - 3** :- Now go to this path C:\xampp\htdocs and copy that downloaded or cloned project here .
 
-**Step - 4** :- Your downloaded project name should be Dailyneeds-Ecommerce-Master . Now please rename that folder name and give it a name which is Dailyneeds .
+**Step - 4** :- Your downloaded project name should be DailyNeeds-eCommerce-Master . Now please rename that folder name and give it a name which is "Dailyneeds" .
 
 **Step - 5** :- Now go to your browser and insert this link http://localhost/dailyneeds/ . Hopefully you will be able to see the index page .
 
